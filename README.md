@@ -35,7 +35,7 @@ FLUX 2 is known for photoreal texture and fine control over composition. This co
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-24
+- Last updated: 2026-10-25
 - apimart.ai/model/flux-2
 
 ## Browse by Category
