@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 APIMart で FLUX 2 を使って生成 · apimart.ai/model/flux-2](https://gola.apimart.ai/k-pHsZ6D)**
+
+`https://gola.apimart.ai/k-pHsZ6D`
 [💰 Pricing](https://gola.apimart.ai/k-2h2sGo) · [🔑 Get an API key](https://gola.apimart.ai/k-t2P1aS)
 
 
